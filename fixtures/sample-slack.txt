@@ -1,0 +1,4 @@
+*Week of 2026-10-12: orders 531 (+0.6% vs previous week)*
+• product=Team: orders 97 vs 63 last week (+54%, z=40.5)
+• region x product=US / Team: orders 62 vs 28 last week (+121.4%, z=40.5)
+• region=US: revenue 14203 vs 10214 last week (+39.1%, z=27.7)
